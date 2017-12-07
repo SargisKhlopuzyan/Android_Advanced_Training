@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Android_Advanced_Training.iml" filepath="$PROJECT_DIR$/Android_Advanced_Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/afs_using_rest_apis/afs_using_rest_apis.iml" filepath="$PROJECT_DIR$/afs_using_rest_apis/afs_using_rest_apis.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/started_bound_service_interactions/started_bound_service_interactions.iml" filepath="$PROJECT_DIR$/started_bound_service_interactions/started_bound_service_interactions.iml" />
     </modules>
   </component>
 </project>

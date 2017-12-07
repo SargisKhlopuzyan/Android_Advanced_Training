@@ -1,1 +1,1 @@
-include ':app', ':afs_using_rest_apis'
+include ':app', ':afs_using_rest_apis', ':started_bound_service_interactions'
