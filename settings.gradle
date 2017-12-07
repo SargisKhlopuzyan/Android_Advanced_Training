@@ -1,0 +1,1 @@
+include ':app', ':afs_using_rest_apis'
