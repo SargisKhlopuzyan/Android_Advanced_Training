@@ -1,0 +1,103 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/buttonGrid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="00"
+                android:onClick="onCellClicked" />
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="01"
+                android:onClick="onCellClicked" />
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="02"
+                android:onClick="onCellClicked" />
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="10"
+                android:onClick="onCellClicked" />
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="11"
+                android:onClick="onCellClicked" />
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="12"
+                android:onClick="onCellClicked" />
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="20"
+                android:onClick="onCellClicked" />
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="21"
+                android:onClick="onCellClicked" />
+
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:tag="22"
+                android:onClick="onCellClicked" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/winnerPlayerViewGroup"
+        android:visibility="gone"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+
+        <TextView
+            android:id="@+id/winnerPlayerLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="X" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Winner" />
+
+    </LinearLayout>
+
+</LinearLayout>

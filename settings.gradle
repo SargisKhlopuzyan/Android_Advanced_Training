@@ -1,1 +1,1 @@
-include ':app', ':afs_using_rest_apis', ':started_bound_service_interactions', ':rest_api_using_retrofit_library'
+include ':app', ':afs_using_rest_apis', ':started_bound_service_interactions', ':rest_api_using_retrofit_library', ':mvc_pattern__mvc_mvp_mvvm'
