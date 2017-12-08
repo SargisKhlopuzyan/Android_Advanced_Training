@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/afs_using_rest_apis" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/rest_api_using_retrofit_library" />
             <option value="$PROJECT_DIR$/started_bound_service_interactions" />
           </set>
         </option>
