@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM_Pattern__MVC_MVP_MVVM</string>
+    <string name="winner">Winner</string>
+    <string name="action_reset">Reset</string>
+</resources>

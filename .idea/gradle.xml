@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mvc_pattern__mvc_mvp_mvvm" />
             <option value="$PROJECT_DIR$/mvp_pattern__mvc_mvp_mvvm" />
+            <option value="$PROJECT_DIR$/mvvm_pattern__mvc_mvp_mvvm" />
             <option value="$PROJECT_DIR$/rest_api_using_retrofit_library" />
             <option value="$PROJECT_DIR$/started_bound_service_interactions" />
           </set>
