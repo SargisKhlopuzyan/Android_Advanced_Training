@@ -1,1 +1,1 @@
-include ':app', ':afs_using_rest_apis', ':started_bound_service_interactions', ':rest_api_using_retrofit_library', ':mvc_pattern__mvc_mvp_mvvm', ':mvp_pattern__mvc_mvp_mvvm', ':mvvm_pattern__mvc_mvp_mvvm'
+include ':app', ':afs_using_rest_apis', ':started_bound_service_interactions', ':rest_api_using_retrofit_library', ':mvc_pattern__mvc_mvp_mvvm', ':mvp_pattern__mvc_mvp_mvvm', ':mvvm_pattern__mvc_mvp_mvvm', ':creating_custom_annotations', ':unit_test_temperature_converter'

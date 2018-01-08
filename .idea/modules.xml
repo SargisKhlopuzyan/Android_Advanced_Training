@@ -5,11 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Android_Advanced_Training.iml" filepath="$PROJECT_DIR$/Android_Advanced_Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/afs_using_rest_apis/afs_using_rest_apis.iml" filepath="$PROJECT_DIR$/afs_using_rest_apis/afs_using_rest_apis.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creating_custom_annotations/creating_custom_annotations.iml" filepath="$PROJECT_DIR$/creating_custom_annotations/creating_custom_annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc_pattern__mvc_mvp_mvvm/mvc_pattern__mvc_mvp_mvvm.iml" filepath="$PROJECT_DIR$/mvc_pattern__mvc_mvp_mvvm/mvc_pattern__mvc_mvp_mvvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvp_pattern__mvc_mvp_mvvm/mvp_pattern__mvc_mvp_mvvm.iml" filepath="$PROJECT_DIR$/mvp_pattern__mvc_mvp_mvvm/mvp_pattern__mvc_mvp_mvvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvvm_pattern__mvc_mvp_mvvm/mvvm_pattern__mvc_mvp_mvvm.iml" filepath="$PROJECT_DIR$/mvvm_pattern__mvc_mvp_mvvm/mvvm_pattern__mvc_mvp_mvvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/rest_api_using_retrofit_library/rest_api_using_retrofit_library.iml" filepath="$PROJECT_DIR$/rest_api_using_retrofit_library/rest_api_using_retrofit_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/started_bound_service_interactions/started_bound_service_interactions.iml" filepath="$PROJECT_DIR$/started_bound_service_interactions/started_bound_service_interactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit_test_temperature_converter/unit_test_temperature_converter.iml" filepath="$PROJECT_DIR$/unit_test_temperature_converter/unit_test_temperature_converter.iml" />
     </modules>
   </component>
 </project>
